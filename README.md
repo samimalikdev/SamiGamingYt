@@ -6,21 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/samimalik854" target="blank"><img src="https://img.shields.io/twitter/follow/samimalik854?logo=twitter&style=for-the-badge" alt="samimalik854" /></a> </p>
 
-- 🔭 I’m currently working on **Open Source Projects**
-
-- 🌱 I’m currently learning **C++ And Little bit java**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SamiGamingYt](https://github.com/SamiGamingYt)
-
-- 📝 I regularly write articles on [samimalik264.blogspot.com](samimalik264.blogspot.com)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **samimalik33334@gmail.com**
-
-- 📄 Know about my experiences [https://youtube.com/c/SamiGamingYouTube](https://youtube.com/c/SamiGamingYouTube)
-
-- ⚡ Fun fact **I think I’m funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
